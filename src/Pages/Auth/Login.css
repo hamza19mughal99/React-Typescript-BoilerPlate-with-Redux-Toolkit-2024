@@ -1,0 +1,16 @@
+.login_main{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login_main a{
+    background-color: #1C2434;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;
+    font-size: 17px;
+    border-radius: 5px;
+    margin: 10px;
+}
